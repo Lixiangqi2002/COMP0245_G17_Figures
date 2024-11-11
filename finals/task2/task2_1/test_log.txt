@@ -1,0 +1,193 @@
+##################################################
+Prediction time for Joint 1: 0.09 seconds
+Average GPU memory usage for Joint 1: 363.00 MiB
+Average GPU used percentage for Joint 1: 37.62%
+Average CPU used percentage for Joint 1: 0.00%
+Average memory percentage for Joint 1: 0.00%
+Average memory usage for Joint 1: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 2: 0.00 seconds
+Average GPU memory usage for Joint 2: 368.00 MiB
+Average GPU used percentage for Joint 2: 37.33%
+Average CPU used percentage for Joint 2: 0.00%
+Average memory percentage for Joint 2: 0.00%
+Average memory usage for Joint 2: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 3: 0.00 seconds
+Average GPU memory usage for Joint 3: 369.67 MiB
+Average GPU used percentage for Joint 3: 37.23%
+Average CPU used percentage for Joint 3: 0.00%
+Average memory percentage for Joint 3: 0.00%
+Average memory usage for Joint 3: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 4: 0.00 seconds
+Average GPU memory usage for Joint 4: 370.50 MiB
+Average GPU used percentage for Joint 4: 37.18%
+Average CPU used percentage for Joint 4: 0.00%
+Average memory percentage for Joint 4: 0.00%
+Average memory usage for Joint 4: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 5: 0.00 seconds
+Average GPU memory usage for Joint 5: 371.00 MiB
+Average GPU used percentage for Joint 5: 37.16%
+Average CPU used percentage for Joint 5: 0.00%
+Average memory percentage for Joint 5: 0.00%
+Average memory usage for Joint 5: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 6: 0.00 seconds
+Average GPU memory usage for Joint 6: 371.33 MiB
+Average GPU used percentage for Joint 6: 37.14%
+Average CPU used percentage for Joint 6: 0.00%
+Average memory percentage for Joint 6: 0.00%
+Average memory usage for Joint 6: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 7: 0.00 seconds
+Average GPU memory usage for Joint 7: 371.57 MiB
+Average GPU used percentage for Joint 7: 37.12%
+Average CPU used percentage for Joint 7: 0.00%
+Average memory percentage for Joint 7: 0.00%
+Average memory usage for Joint 7: 0.00 MiB
+--------------------------------------------------
+####################################################################################################
+Prediction time for Joint 1: 0.00 seconds
+Average GPU memory usage for Joint 1: 374.00 MiB
+Average GPU used percentage for Joint 1: 36.81%
+Average CPU used percentage for Joint 1: 0.00%
+Average memory percentage for Joint 1: 0.00%
+Average memory usage for Joint 1: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 2: 0.00 seconds
+Average GPU memory usage for Joint 2: 374.00 MiB
+Average GPU used percentage for Joint 2: 36.88%
+Average CPU used percentage for Joint 2: 0.00%
+Average memory percentage for Joint 2: 0.00%
+Average memory usage for Joint 2: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 3: 0.00 seconds
+Average GPU memory usage for Joint 3: 374.00 MiB
+Average GPU used percentage for Joint 3: 36.91%
+Average CPU used percentage for Joint 3: 0.00%
+Average memory percentage for Joint 3: 0.00%
+Average memory usage for Joint 3: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 4: 0.00 seconds
+Average GPU memory usage for Joint 4: 374.00 MiB
+Average GPU used percentage for Joint 4: 36.92%
+Average CPU used percentage for Joint 4: 0.00%
+Average memory percentage for Joint 4: 0.00%
+Average memory usage for Joint 4: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 5: 0.00 seconds
+Average GPU memory usage for Joint 5: 374.00 MiB
+Average GPU used percentage for Joint 5: 36.93%
+Average CPU used percentage for Joint 5: 0.00%
+Average memory percentage for Joint 5: 0.00%
+Average memory usage for Joint 5: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 6: 0.00 seconds
+Average GPU memory usage for Joint 6: 374.00 MiB
+Average GPU used percentage for Joint 6: 36.93%
+Average CPU used percentage for Joint 6: 0.00%
+Average memory percentage for Joint 6: 0.00%
+Average memory usage for Joint 6: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 7: 0.00 seconds
+Average GPU memory usage for Joint 7: 374.00 MiB
+Average GPU used percentage for Joint 7: 36.94%
+Average CPU used percentage for Joint 7: 0.00%
+Average memory percentage for Joint 7: 0.00%
+Average memory usage for Joint 7: 0.00 MiB
+--------------------------------------------------
+####################################################################################################
+Prediction time for Joint 1: 0.00 seconds
+Average GPU memory usage for Joint 1: 374.00 MiB
+Average GPU used percentage for Joint 1: 36.81%
+Average CPU used percentage for Joint 1: 0.00%
+Average memory percentage for Joint 1: 0.00%
+Average memory usage for Joint 1: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 2: 0.00 seconds
+Average GPU memory usage for Joint 2: 374.00 MiB
+Average GPU used percentage for Joint 2: 36.88%
+Average CPU used percentage for Joint 2: 0.00%
+Average memory percentage for Joint 2: 0.00%
+Average memory usage for Joint 2: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 3: 0.00 seconds
+Average GPU memory usage for Joint 3: 374.00 MiB
+Average GPU used percentage for Joint 3: 36.91%
+Average CPU used percentage for Joint 3: 0.00%
+Average memory percentage for Joint 3: 0.00%
+Average memory usage for Joint 3: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 4: 0.00 seconds
+Average GPU memory usage for Joint 4: 374.00 MiB
+Average GPU used percentage for Joint 4: 36.92%
+Average CPU used percentage for Joint 4: 0.00%
+Average memory percentage for Joint 4: 0.00%
+Average memory usage for Joint 4: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 5: 0.00 seconds
+Average GPU memory usage for Joint 5: 374.00 MiB
+Average GPU used percentage for Joint 5: 36.93%
+Average CPU used percentage for Joint 5: 0.00%
+Average memory percentage for Joint 5: 0.00%
+Average memory usage for Joint 5: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 6: 0.00 seconds
+Average GPU memory usage for Joint 6: 374.00 MiB
+Average GPU used percentage for Joint 6: 36.93%
+Average CPU used percentage for Joint 6: 0.00%
+Average memory percentage for Joint 6: 0.00%
+Average memory usage for Joint 6: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 7: 0.00 seconds
+Average GPU memory usage for Joint 7: 374.00 MiB
+Average GPU used percentage for Joint 7: 36.94%
+Average CPU used percentage for Joint 7: 0.00%
+Average memory percentage for Joint 7: 0.00%
+Average memory usage for Joint 7: 0.00 MiB
+--------------------------------------------------
+####################################################################################################
+Prediction time for Joint 1: 0.00 seconds
+Average GPU memory usage for Joint 1: 374.00 MiB
+Average GPU used percentage for Joint 1: 36.81%
+Average CPU used percentage for Joint 1: 0.00%
+Average memory percentage for Joint 1: 0.00%
+Average memory usage for Joint 1: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 2: 0.00 seconds
+Average GPU memory usage for Joint 2: 374.00 MiB
+Average GPU used percentage for Joint 2: 36.81%
+Average CPU used percentage for Joint 2: 0.00%
+Average memory percentage for Joint 2: 0.00%
+Average memory usage for Joint 2: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 3: 0.00 seconds
+Average GPU memory usage for Joint 3: 374.00 MiB
+Average GPU used percentage for Joint 3: 36.86%
+Average CPU used percentage for Joint 3: 0.00%
+Average memory percentage for Joint 3: 0.00%
+Average memory usage for Joint 3: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 4: 0.00 seconds
+Average GPU memory usage for Joint 4: 374.00 MiB
+Average GPU used percentage for Joint 4: 36.88%
+Average CPU used percentage for Joint 4: 0.00%
+Average memory percentage for Joint 4: 0.00%
+Average memory usage for Joint 4: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 5: 0.00 seconds
+Average GPU memory usage for Joint 5: 374.00 MiB
+Average GPU used percentage for Joint 5: 36.90%
+Average CPU used percentage for Joint 5: 0.00%
+Average memory percentage for Joint 5: 0.00%
+Average memory usage for Joint 5: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 6: 0.00 seconds
+Average GPU memory usage for Joint 6: 374.00 MiB
+Average GPU used percentage for Joint 6: 36.91%
+Average CPU used percentage for Joint 6: 0.00%
+Average memory percentage for Joint 6: 0.00%
+Average memory usage for Joint 6: 0.00 MiB
+--------------------------------------------------
