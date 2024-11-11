@@ -682,6 +682,7 @@ def main():
         qd_mes_all = []
         q_d_all = []
         qd_d_all = []
+        tau_cmd_arr = []
         # Data collection loop
         while current_time < test_time_array.max():
             # Measure current state
@@ -700,6 +701,7 @@ def main():
 
             # Control command
             tau_cmd = feedback_lin_ctrl(dyn_model, q_mes, qd_mes, q_des, qd_des_clip, kp, kd)
+            tau_cmd_arr.append(tau_cmd)
             cmd.SetControlCmd(tau_cmd, ["torque"] * 7)  # Set the torque command
             sim.Step(cmd, "torque")  # Simulation step with torque command
 
@@ -786,6 +788,20 @@ def main():
         # plt.show()
         plt.close()
 
+        plt.figure(figsize=(10, 15))
+        tau_cmd_arr = np.array(tau_cmd_arr)
+        for i in range(tau_cmd_arr.shape[1]):
+            plt.subplot(7, 1, i+1)
+            plt.plot([t[i] for t in tau_cmd_arr], label=f"Joint {i + 1}")
+        plt.title(f'Torque Command')
+        plt.xlabel('Time steps')
+        plt.ylabel('Position')
+        plt.legend()
+        image_path = os.path.join("task3", f"goal_{g}_torque_comparison.png")
+        plt.savefig(image_path, format='png', dpi=300)
+        plt.show()
+
+
         num_joints = len(q_mes)
         for i in range(num_joints):
             plt.figure(figsize=(10, 8))
@@ -836,6 +852,7 @@ def main():
             error_data["Joint Index"].append(i + 1)
             error_data["Joint Position Error"].append(joint_position_error)
             error_data["Joint Velocity Error"].append(velocity_error)
+
         error_data["Type"].append(type)
         error_data["Goal"].append(g)
         error_data["Joint Index"].append("N/A")
@@ -873,7 +890,7 @@ if __name__ == '__main__':
     neural_network_or_random_forest = "random_forest"  # Change to "random_forest" to use Random Forest models
     task_id = "3-3"  # "3-1" / "3-3"
     filter = "Gaussian"  # EMA, Gaussian
-    depth = 2
+    depth = 10
     save_xlsx = False
     save_txt = False
     save_plot = False
@@ -893,7 +910,7 @@ if __name__ == '__main__':
             fig_image_dir = f"task3/task3_3/{neural_network_or_random_forest}"
         else:
             if filter == "EMA":
-                alpha = 0.001  # [0.1, 0.01, 0.001]
+                alpha = 0.1  # [0.1, 0.01, 0.001]
                 type = f"alpha_{alpha}_{neural_network_or_random_forest}_depth_{depth}"
                 fig_image_dir = f"task3/task3_3/EMA/alpha_{alpha}_{neural_network_or_random_forest}_depth_{depth}"
             elif filter == "Gaussian":
